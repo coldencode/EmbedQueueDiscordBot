@@ -8,7 +8,7 @@ EmbedQueueDiscordBot is a lightweight Discord bot that manages a queue system us
 - **Username Prompt**: Prompts users to provide their username when joining the queue.
 - **Dynamic Queue Management**: Supports adding, removing, and viewing queue participants in real-time.
 
-![Example](https://imgur.com/a/WOeQeo4)
+![Example](https://i.imgur.com/g9DXiAe.png)
 ## Getting Started
 
 ### Prerequisites
