@@ -26,7 +26,7 @@ EmbedQueueDiscordBot is a lightweight Discord bot that manages a queue system us
 
 2. **Install Dependencies**:
    ```bash
-   npm install
+   py -3 -m pip install -U discord.py
    ```
 
 3. **Set Up Bot Token**:
